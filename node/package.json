@@ -1,14 +1,13 @@
 {
-  "name": "01",
+  "name": "node",
   "version": "1.0.0",
-  "main": "01-run.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "keywords": [],
-  "description": "",
   "dependencies": {
     "axios": "^0.18.0",
     "co-redis": "^2.1.1",
